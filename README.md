@@ -29,6 +29,8 @@ All work is based on real-world datasets and scenarios relevant to data analyst 
 ---
 
 ## Repository Structure
+
+```
 da-bootcamp
 ├── excel
 ├── sql
@@ -36,7 +38,7 @@ da-bootcamp
 ├── tableau
 ├── powerbi
 └── README.md
-
+```
 
 ---
 
